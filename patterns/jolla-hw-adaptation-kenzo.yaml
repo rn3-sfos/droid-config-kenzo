@@ -87,8 +87,5 @@ Requires:
 # Flashlight
 - jolla-settings-system-flashlight
 
-# For camera module detection
-- droid-camres
-
 Summary: Jolla HW Adaptation kenzo
 
